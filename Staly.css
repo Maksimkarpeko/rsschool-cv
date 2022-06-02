@@ -1,0 +1,38 @@
+header{
+    background-image: url(img/club_3.jpg);
+    width: 1920px;
+    height: 1080px;
+}
+#logo{
+    float: left;
+}
+#menu a{
+    text-decoration: none;
+    color: white;
+    padding: 50px;
+    margin: 10px;
+}
+#active2{
+    padding-left: 70px;
+}
+h1{
+    color: white;
+    font-family: 'Open Sans';
+    text-align: center;
+    margin-top: 350px;
+    font-size: 96px;
+}
+#nuse{
+    padding-left:  400px;
+}
+#firs2303{
+}
+#EUimg{
+    padding-left: 350px;
+    border-radius: 50px;
+    float: left;
+}
+.pod a{
+    text-decoration: none;
+    border: 1px solid #F4A460;
+}
